@@ -1,6 +1,6 @@
 {
   "name": "whir-dodom",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Super lightweight function to turn a htmlish string into a document fragment",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "dom"
   ],
   "author": "Dan Peddle",
-  "license": "BSD-3-Clause",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/whir-tools/dodom/issues"
   },
